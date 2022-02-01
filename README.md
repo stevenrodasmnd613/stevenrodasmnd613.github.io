@@ -1,7 +1,8 @@
 # stevenrodasmnd613.github.io
 Datawrapper chart: https://datawrapper.dwcdn.net/SKfl5/2/
 
-<img width="655" alt="Screen Shot 2022-01-29 at 1 20 23 PM" src="https://user-images.githubusercontent.com/98566041/151861750-d7bc5ed8-cb29-4993-9681-2bf4aa4f0343.png">
+
+<img width="579" alt="Screen Shot 2022-02-01 at 12 27 08 PM" src="https://user-images.githubusercontent.com/98566041/152020071-02555c19-afcf-4b71-8206-86e066651b74.png">
 
 This October marks the 5-year-anniversary of the 2017 Las Vegas mass shooting. On the first of that month half-a-decade ago, a 64-year-old man from Mesquite, Nevada, named Stephen Paddock unloaded his weapon into a crowd of music festival goers on the Las Vegas strip. “(Paddock) committed the largest mass casualty shooting in this country’s history. Fifty-eight people were killed, approximately 887 people sustained documented injuries. Of those 869 people, 413 sustained a gunshot wound or shrapnel-type injury,” the Las Vegas Metropolitan Police Department said in a report released in August 2018. The department later updated those figures to 61 deaths (including the perpetrator and two victims who died in 2019 and 2020) and 867 wounded (411 by gunfire).
 
